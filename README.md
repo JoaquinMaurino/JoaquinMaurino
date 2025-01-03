@@ -4,6 +4,7 @@
 ✨ **Programador backend.**  
 He desarrollado varios proyectos con **Node.js**, creando APIs robustas, implementando **autenticación y autorización** mediante **JWT**, y utilizando **MongoDB** y **Cloudinary** para el almacenamiento de datos.  
 También cuento con conocimientos en bases de datos relacionales como **SQL**.
+Nivel de inglés profesional: C1 Level First Certificate Exam
 
 📚 Actualmente, estoy cursando la **Tecnicatura Universitaria en Inteligencia Artificial**, donde el lenguaje principal es **Python**.  
 💼 Estoy en búsqueda de nuevas oportunidades laborales como **Desarrollador Backend**.
