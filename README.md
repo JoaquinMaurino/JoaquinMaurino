@@ -26,8 +26,8 @@ Nivel de inglés profesional: C1 Level First Certificate Exam
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- **APIs:**
-  ![REST](https://img.shields.io/badge/REST-25D366?style=flat-square&logo=rest&logoColor=white)
+- **APIs:**  
+  ![REST](https://img.shields.io/badge/REST-25D366?style=flat-square&logo=rest&logoColor=white)  
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ---
 
