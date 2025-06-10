@@ -39,4 +39,4 @@ Nivel de inglés profesional: C1 Level First Certificate Exam
 
 ## 📫 Contacto
 - **Correo:** [joaquin9918@gmail.com](mailto:joaquin9918@gmail.com)  
-- **LinkedIn:** https://www.linkedin.com/in/joaquin-mauri%C3%B1o-88938b238/
+- **LinkedIn:** [joaquin-mauriño](https://www.linkedin.com/in/joaquin-mauri%C3%B1o-88938b238/)
